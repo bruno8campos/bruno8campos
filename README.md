@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-##Me chamo Bruno e sou um desenvolvedor front-end :)
+## Me chamo Bruno e sou um desenvolvedor front-end :)
 
 - 🔭 Atualmente estou em busca de uma oportunidade para atuar como Desenvolvedor Front-End Junior.
 - 🌱 Tenho experiência com React, Typescript e Tailwind CSS.
